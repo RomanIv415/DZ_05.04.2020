@@ -66,12 +66,12 @@ header > .inner-container{
 	outline-offset: 0;
 }
 .name{
-	background-image: url(../img/user.png);
+	background-image: url(../img/User.png);
     background-repeat: no-repeat;
     background-position: 97%;
 }
 .password{
-	background-image: url(../img/locked.png);
+	background-image: url(../img/Locked.png);
     background-repeat: no-repeat;
     background-position: 97%;
 }
